@@ -2,6 +2,7 @@ Python code for GMM-UBM and MAP adaptation based speaker verification
 
 Citation:
 [1] Z.-H. Tan, A.k. Sarkara and N. Dehakb, "rVAD: an unsupervised segment-based robust voice activity detection method," Computer Speech and Language, 2019.
+where speaker verification is used as one down-stream application of VAD. 
 
 Code was tested on python 2.7
 0/workflow of code:  
